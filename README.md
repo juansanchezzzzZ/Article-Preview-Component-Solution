@@ -23,7 +23,7 @@ This project focuses on responsive layouts, Flexbox, positioning, interactive st
 
 ## Live Demo
 
-- Live Site: https://your-live-site-url.com
+- Live Site:https://juansanchezzzzz.github.io/Article-Preview-Component-Solution/
 - Frontend Mentor Challenge: https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT
 
 ---
