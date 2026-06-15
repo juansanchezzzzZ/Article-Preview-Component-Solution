@@ -17,7 +17,7 @@ This project focuses on responsive layouts, Flexbox, positioning, interactive st
 
 ## Preview
 
-![Design preview for the Article Preview Component](design\desktop-preview.jpg)
+![Design preview for the Article Preview Component](design/desktop-preview.jpg)
 
 ---
 
